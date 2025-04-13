@@ -1,0 +1,17 @@
+Componente / Recurso,Cantidad,Valor unitario (COP),Costo total (COP),Descripción
+Raspberry Pi Pico,1,35000,35000,Microcontrolador principal para el sistema embebido
+Motor paso a paso 28BYJ-48,1,12000,12000,Actuador para pruebas de control de movimiento
+Driver ULN2003,1,5000,5000,Controlador para el motor paso a paso
+Pantalla LCD 16x2 (con I2C),1,15000,15000,Interfaz visual para mostrar estado y parámetros
+Botones / encoder rotatorio,3,2000,6000,Entrada del usuario para navegación y control
+Cables Dupont y protoboard,1,8000,8000,Conexiones temporales para prototipado
+Fuente de alimentación 5V,1,10000,10000,Suministro de energía para el motor y la placa
+PCB o base acrílica,1,10000,10000,Soporte estructural para el montaje del sistema
+Multímetro / fuente de laboratorio,1,0,0,Herramienta de medición y pruebas (institucional)
+Osciloscopio,1,0,0,Herramienta opcional para observar señales PWM
+Computador con entorno de desarrollo,1,0,0,VSCode + SDK RP2040 para programación y compilación
+Cable micro USB,1,0,0,Para carga y comunicación con la Raspberry Pi Pico
+Diseño y armado de prototipo,1,0,0,Trabajo realizado por el equipo de estudiantes
+Impresión de carcasa,1,15000,15000,Envolvente física para presentación del prototipo
+Validación y pruebas manuales,1,0,0,Fase de verificación funcional y operativa del sistema
+TOTAL,17,112000,116000,
