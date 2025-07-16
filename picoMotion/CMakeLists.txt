@@ -39,6 +39,7 @@ add_executable(picoMotion src/main.c
                     src/lcd_display.c
                     src/LiquidCrystal_I2C.c
                     src/motor_control.c
+                    src/buttons.c
 )
 
 pico_set_program_name(picoMotion "picoMotion")
@@ -60,6 +61,7 @@ target_sources(picoMotion PRIVATE
         src/lcd_display.c
         src/LiquidCrystal_I2C.c
         src/motor_control.c
+        src/buttons.c
 )
         
 

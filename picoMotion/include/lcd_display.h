@@ -5,5 +5,6 @@
 #include "LiquidCrystal_I2C.h"
 
 void lcd_init_custom();
+LiquidCrystal_I2C* lcd_get();
 
 #endif

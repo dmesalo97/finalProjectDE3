@@ -23,3 +23,7 @@ void lcd_init_custom() {
     lcd_set_cursor(&lcd, 0, 0);
     lcd_print(&lcd, "PicoMotion ON");
 }
+
+LiquidCrystal_I2C* lcd_get() {
+    return &lcd;
+}
